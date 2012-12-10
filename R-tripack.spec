@@ -40,3 +40,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/data
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/libs
+
+
+%changelog
+* Fri Feb 17 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3_4-1
++ Revision: 776253
+- Import R-tripack
+- Import R-tripack
+
