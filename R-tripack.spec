@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.3.5
-Release:          1
+Release:          2
 Summary:          Triangulation of irregularly spaced data
 Group:            Sciences/Mathematics
 License:          file LICENSE
