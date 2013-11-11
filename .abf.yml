@@ -1,4 +1,5 @@
 removed_sources:
   tripack_1.3-4.tar.gz: 7abb67d65f97d6541efd1a417bf1a99449f2ec2d
-sources:
   tripack_1.3-5.tar.gz: f2a040823e424bec0a5457ebcdb9e6979fecd707
+sources:
+  tripack_1.3-6.tar.gz: bf1a07c5b2b76605ded6eae657459b84592e98d8
