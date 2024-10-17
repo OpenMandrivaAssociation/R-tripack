@@ -7,7 +7,7 @@ Release:          2
 Summary:          Triangulation of irregularly spaced data
 Group:            Sciences/Mathematics
 License:          file LICENSE
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/tripack_1.3-6.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 
